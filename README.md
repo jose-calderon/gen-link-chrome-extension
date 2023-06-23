@@ -5,7 +5,7 @@ To install this Chrome extension locally from a zip file located on GitHub, you 
 
 1. Download the Zip File: Visit the GitHub repository where the Chrome extension is hosted and locate the "Code" button. Click on it and select "Download ZIP" to download the extension's source code as a zip file to your computer.
 
-![Download ZIP] (docs/images/download.png)
+![Download ZIP!](docs/images/download.png "Download ZIP!")
 
 2. Extract the Zip File: Once the zip file is downloaded, extract its contents to a folder on your computer. Make sure to remember the location where you extracted the files.
 
