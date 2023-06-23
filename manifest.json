@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "PD - Link generator",
+  "version": "1.0",
+  "description": "Custom chrome extension to convert a form get method to a get url qirh query strings",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "pd_icon.png",
+      "48": "pd_icon.png",
+      "128": "pd_icon.png"
+    }
+  }
+}
