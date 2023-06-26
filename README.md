@@ -5,8 +5,6 @@ To install this Chrome extension locally from a zip file located on GitHub, you 
 
 1. Download the Zip File: Visit the GitHub repository where the Chrome extension is hosted and locate the "Code" button. Click on it and select "Download ZIP" to download the extension's source code as a zip file to your computer.
 
-![Download ZIP!](docs/images/download.png "Download ZIP!")
-
 2. Extract the Zip File: Once the zip file is downloaded, extract its contents to a folder on your computer. Make sure to remember the location where you extracted the files.
 
 3. Open Google Chrome Extensions Page: Open Google Chrome browser and type chrome://extensions in the address bar. Press Enter to access the Chrome Extensions page.
@@ -22,5 +20,9 @@ To install this Chrome extension locally from a zip file located on GitHub, you 
 That's it! The Chrome extension from the zip file on GitHub is now installed and ready to use in your Google Chrome browser. Remember to keep the extracted folder in a safe location on your computer, as it is required for the extension to function properly.
 
 ## Usage
-Once the Chrome Extension Name is installed
+
+Once the extension is installed click on it and make sure the enable option is checked then click on the button of the product. This will generate and copy to the clipboard the url you will use as a link.
+
+Confirm url generated: Paste the url in a notepad or any similar tool to confirm it generated the url.
+
 
